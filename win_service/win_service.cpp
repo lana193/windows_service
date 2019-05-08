@@ -1,5 +1,5 @@
 // win_service.cpp : Defines the entry point for the console application.
-// C:\Users\Lana_19\vs_projects\win_service\x64\Debug\
+//
 
 #include "stdafx.h"
 #include "threads.h"
